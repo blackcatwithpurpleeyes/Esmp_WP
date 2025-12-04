@@ -1,0 +1,11 @@
+.flex-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    text-align: center;
+    background-color: red;
+}
+
